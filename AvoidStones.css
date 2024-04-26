@@ -1,0 +1,20 @@
+canvas {
+    background-color: #112330;
+}
+
+body {
+    background-color: black;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#scoreBoard {
+    display: flex;
+    width: 200px;
+    height: 600px;
+    background-color: grey;
+    margin:30px;
+}
