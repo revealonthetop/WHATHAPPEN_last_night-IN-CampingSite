@@ -1,27 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>캠핑장에서 했던 일</title>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>돌 피하기 게임</title>
-    <link rel="stylesheet" type="text/css" href="AvoidStones.css">
-    
-</head>
-<body>
-    <div>
-        <canvas id="canvas" width="800" height="600"></canvas>
-        <div id="scoreBoard">
-            <h1>점수판</h1>
-        </div>
-    </div>
-    <script type="module" src="/AvoidStones.js"></script>
-    <script type="module">
-        window.addEventListener('load', () => {
-            initialize();
-        });
-    </script>
-    
-</body>
+        <style>
+        canvas{
+            background-color: #0099FF;
+        }
+        body{
+            background-color: black;
+        }
+    </style>
 
+    </head>
+    <body>
+        <canvas id="canvas" width="1000" height="800"></canvas>
+        <script src="AvoidStones.js"> </script>
+    </body>
 </html>
