@@ -1,6 +1,6 @@
 # 캠핑에서 생긴 일
 
-![스크린샷 2024-06-30 172045](https://github.com/revealonthetop/WHATHAPPEN_last_night-IN-CampingSite/assets/107919163/bfd821c3-3f08-4a86-baa6-21d8de66df81) | ![스크린샷 2024-06-30 172102](https://github.com/revealonthetop/WHATHAPPEN_last_night-IN-CampingSite/assets/107919163/a0d7965d-1bce-4776-a217-44532d77ed5f) | ![스크린샷 2024-06-30 171904](https://github.com/revealonthetop/WHATHAPPEN_last_night-IN-CampingSite/assets/107919163/5dc5e498-41dd-44d5-b958-d60ee41a7af3)
+![스크린샷 2024-06-30 172045](https://github.com/revealonthetop/WHATHAPPEN_last_night-IN-CampingSite/assets/107919163/bfd821c3-3f08-4a86-baa6-21d8de66df81){: width="32" height="32"} | ![스크린샷 2024-06-30 172102](https://github.com/revealonthetop/WHATHAPPEN_last_night-IN-CampingSite/assets/107919163/a0d7965d-1bce-4776-a217-44532d77ed5f){: width="32" height="32"}  | ![스크린샷 2024-06-30 171904](https://github.com/revealonthetop/WHATHAPPEN_last_night-IN-CampingSite/assets/107919163/5dc5e498-41dd-44d5-b958-d60ee41a7af3){: width="32" height="32"} 
 
 ## 개요
 "캠핑에서 생긴 일"은 유저가 캠핑장에서 장애물을 피하고 점수를 모으는 HTML5 캔버스 게임입니다. 이 README는 게임의 주요 기능, 설정 방법, 게임 플레이 메커니즘을 포괄적으로 설명합니다.
